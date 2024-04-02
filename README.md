@@ -1,4 +1,4 @@
-![Math Wizard](https://media.giphy.com/media/3o7btPCcdNniyf0ArS/giphy.gif)
+![Math Wizard](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMXF3azQzemR0azZ2aThyNHYzZGMzbnhodm54bGVienB4NjNzcDRwMiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/9D7dMTEskdstXHUOK2/giphy.gif)
 
 ### Hi there 👋 I'm Roozbeh, an Applied Mathematician!
 
