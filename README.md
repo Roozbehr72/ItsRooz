@@ -59,7 +59,7 @@ I am a Master's student in Applied Mathematics at the University of Verona, Ital
 
 I'm always eager to collaborate, learn, and share knowledge with fellow math and coding enthusiasts. Feel free to reach out to me on GitHub or connect with me on
 
-<a href="mailto:roozbeh.jozeranjbar@protonmail.ch?&body=Hey%20Roozy." target="_blank"><img src="https://img.shields.io/badge/e‑mail-D14836.svg?style=for-the-badge&logo=GMail&logoColor=white"/></a>
+<a href="mailto:roozbeh.jozeranjbar@protonmail.ch?&body=Hey%20Roozbeh," target="_blank"><img src="https://img.shields.io/badge/e‑mail-D14836.svg?style=for-the-badge&logo=GMail&logoColor=white"/></a>
 <a href="https://www.codecademy.com/profiles/RoozbehJR" target="_blank"><img src="https://img.shields.io/badge/Codecademy-1F4056.svg?style=for-the-badge&logo=Codecademy&logoColor=white"/></a>
 <a href="https://www.linkedin.com/in/roozbeh-jozeranjbar-604278110/" target="_blank"><img src="https://img.shields.io/badge/linkedin-0077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 
