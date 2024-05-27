@@ -44,7 +44,7 @@ I am a Master's student in Applied Mathematics at the University of Verona, Ital
 
 - **Master of Applied Mathematics**, University of Verona (2021 - Present)
 - **Bachelor of Applied Mathematics**, Bu-Ali Sina University (2013 - 2018)
-- Workshops and Courses:
+- **Workshops and Courses**:
   - Mathematical Modeling (ECMI)
   - Linear Optimization (EPFL)
   - Neural Network and Deep Learning (DeepLearning.ai)
